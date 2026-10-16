@@ -1,0 +1,15 @@
+{
+  "name": "the-recs-files",
+  "description": "Skills for working on a project whose records are the source of truth.",
+  "owner": {
+    "name": "Aldric Giacomoni"
+  },
+  "plugins": [
+    {
+      "name": "recs-files",
+      "source": "./",
+      "description": "Skills for working on a project whose records are the source of truth.",
+      "version": "1.0.0-beta"
+    }
+  ]
+}
